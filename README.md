@@ -1,2 +1,4 @@
 # Coursera_Capstone
 This is a project to determine the best nieghbourhood around the city
+Say this is you and you live on the west side of the city of Toronto in Canada. You love your neighborhood, mainly because of all the great amenities and other types of venues that exist in the neighborhood, such as gourmet fast food joints, pharmacies, parks, grad schools and so on. Now say you receive a job offer from a great company on the other side of the city with great career prospects. However given the far distance from your current place you unfortunately must move if you decide to accept the offer. Wouldn't it be great if you're able to determine neighborhoods on the other side of the city that are exactly the same as your current neighborhood, and if not perhaps similar neighborhoods that are at least closer to your new job?
+Our this notebook helps us to find the neighbourhood as your previous one using a few data science techniques.
